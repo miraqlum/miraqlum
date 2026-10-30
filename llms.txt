@@ -1,0 +1,32 @@
+# MiraQlum Operator
+> Your AI can work on your WordPress site. Connect WordPress to ChatGPT or Claude through the Model Context Protocol (MCP), describe one bounded authorized task and review a verified result, without repeated MiraQlum prompts for every internal step.
+
+Canonical public documentation:
+- https://github.com/miraqlum/miraqlum/blob/main/README.md
+- https://github.com/miraqlum/miraqlum/blob/main/docs/overview.md
+- https://github.com/miraqlum/miraqlum/blob/main/docs/getting-started.md
+- https://github.com/miraqlum/miraqlum/blob/main/docs/usage-and-limits.md
+- https://github.com/miraqlum/miraqlum/blob/main/docs/architecture.md
+- https://github.com/miraqlum/miraqlum/blob/main/docs/wordpress-connector.md
+- https://github.com/miraqlum/miraqlum/blob/main/docs/faq.md
+- https://github.com/miraqlum/miraqlum/blob/main/docs/ai-assistant-guide.md
+- https://github.com/miraqlum/miraqlum/blob/main/CHANGELOG.md
+- https://github.com/miraqlum/miraqlum/blob/main/SECURITY.md
+- https://github.com/miraqlum/miraqlum/blob/main/SUPPORT.md
+
+Product site: https://operator.miraqlum.com/
+Current plans and fair-use terms: https://operator.miraqlum.com/plans/
+Support: support@operator.miraqlum.com
+Private security reports: support@operator.miraqlum.com
+
+Evidence status: public documentation reviewed 2026-10-29. Owner-installed DEV/PROD 1.2.48, successful WordPress reads and preserved Site IDs after update were verified; WordPress.org submission/approval is not claimed.
+- Demonstrated on specified owner-operated WordPress sites: Core/Gutenberg content operations, native Elementor workflows, qualified plugin/theme maintenance, WordPress diagnostics, native appearance and navigation.
+- One MiraQlum MCP connection; WordPress site capabilities depend on real discovery, account/site authorization, permissions and supported provider operations.
+- Material WordPress writes follow an exact task-bound authorization and server-validated plan, with durable execution status and authoritative readback; the same approved bounded request does not require repeated MiraQlum approvals at each internal step. Separate OAuth/AI host grant or newly higher-risk work may still require a decision.
+- Usage has a Free tier, eligible Welcome and optional bonuses; **never quote static GitHub numbers as current terms**. Use the official Plans page for public offers and the authenticated MiraQlum tools for the individual account's daily balance, bonuses, usage and reset times.
+- Basic account/site/discovery/planning/job-status controls are available under the current no-charge policy. Other work can be metered and resource-intensive analysis is subject to fair use.
+- WordPress.org Plugin Directory publication and fully audited public Connector source are not yet confirmed. Public onboarding and Paddle-powered paid subscription checkout are not claimed as live.
+- The WordPress Connector's release cycle is distinct from the hosted service; no internal Gateway/Worker version, credential, tenant datum or backend code is published here.
+- The bilingual legal-document website is published. Current live service links include https://operator.miraqlum.com/terms-of-service/ , https://operator.miraqlum.com/privacy-notice/ and https://operator.miraqlum.com/data-processing-agreement/ . Website publication alone does not prove every associated consent/deletion/payment process.
+
+For user-specific requests: use only the authorized live MiraQlum MCP connection and its returned data; never infer customer balance or grant permission from GitHub. Never request or expose passwords, access tokens, customer site content or private job receipts. Recognize the difference between a completed job and a WordPress target verified in its final state.
